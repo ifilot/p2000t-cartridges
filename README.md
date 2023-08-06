@@ -14,7 +14,8 @@ needs to be wired to the PCB.
 
 ![PCB of the multirom cartridge](img/p2000t-multicartridge-pcb.jpg)
 
-* [PCB](multicartridge/pcb/p2000t-multicartridge)
+* [PCB - Multicartridge](multicartridge/pcb/p2000t-multicartridge)
+* [PCB - DIP switch plate](multicartridge/pcb/dipswitch-plate)
 * [Casing (3d-print files)](multicartridge/case)
 
 ### Multirom cartridge - ZIF
