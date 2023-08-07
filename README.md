@@ -12,7 +12,9 @@ SLOT1 cartridge that allows the user to select one of 32 banks (assuming a 512kb
 ROM chip is used). A specific bracket PCB is used to hold the DIP switch which
 needs to be wired to the PCB.
 
-![PCB of the multirom cartridge](img/p2000t-multicartridge-pcb.jpg)
+Cartridge | PCB
+--------- | -
+![P2000T ZIF cartridge](img/p2000t-multicartridge.jpg) | ![PCB of the multirom cartridge](img/p2000t-multicartridge-pcb.jpg)
 
 * [PCB - Multicartridge](multicartridge/pcb/p2000t-multicartridge)
 * [PCB - DIP switch plate](multicartridge/pcb/dipswitch-plate)
@@ -24,7 +26,9 @@ SLOT1 cartridge that allows the user to select one of 32 banks (assuming a 512kb
 ROM chip is used). Instead of a fixed ROM chip, this cartridge uses a ZIF socket
 for easy exchange of the ROM chip.
 
-![PCB of the ZIF multirom cartridge](img/p2000t-multicartridge-zif-pcb.jpg)
+Cartridge | PCB
+--------- | -
+![P2000T ZIF cartridge](img/p2000t-multicartridge-zif-cartridge.jpg) | ![PCB of the ZIF multirom cartridge](img/p2000t-multicartridge-zif-pcb.jpg)
 
 * [PCB](multicartridge-zif/pcb/p2000t-multicartridge-zif)
 * [Casing (3d-print files)](multicartridge-zif/case)
