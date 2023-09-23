@@ -37,5 +37,9 @@ Cartridge | PCB
 
 Simplified version of the Multirom cartridge meant for easy soldering.
 
+Cartridge | PCB
+--------- | -
+![P2000T ZIF cartridge](img/p2000t-multicartridge-kit-cartridge.jpg) | ![PCB of the ZIF multirom cartridge](img/p2000t-multicartridge-kit-pcb.jpg)
+
 * [PCB](multicartridge-smd/pcb/p2000t-multicartridge-smd)
 * [Casing (3d-print files)](multicartridge-smd/case)
