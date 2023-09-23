@@ -32,3 +32,10 @@ Cartridge | PCB
 
 * [PCB](multicartridge-zif/pcb/p2000t-multicartridge-zif)
 * [Casing (3d-print files)](multicartridge-zif/case)
+
+### Multirom cartridge kit (smd)
+
+Simplified version of the Multirom cartridge meant for easy soldering.
+
+* [PCB](multicartridge-smd/pcb/multicartridge-smd)
+* [Casing (3d-print files)](multicartridge-smd/case)
