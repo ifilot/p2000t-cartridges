@@ -37,5 +37,5 @@ Cartridge | PCB
 
 Simplified version of the Multirom cartridge meant for easy soldering.
 
-* [PCB](multicartridge-smd/pcb/multicartridge-smd)
+* [PCB](multicartridge-smd/pcb/p2000t-multicartridge-smd)
 * [Casing (3d-print files)](multicartridge-smd/case)
