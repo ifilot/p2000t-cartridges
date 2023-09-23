@@ -371,7 +371,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "p2000t-multicartridge-smd.dsn",
-      "step": "",
+      "step": "p2000t-multicartridge-smd.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
