@@ -43,3 +43,21 @@ Cartridge | PCB
 
 * [PCB](multicartridge-smd/pcb/p2000t-multicartridge-smd)
 * [Casing (3d-print files)](multicartridge-smd/case)
+
+## Enclosures
+
+All enclosures have so-called mouse ears which helps in the adhesion
+of the enclosure to the print plate. This prevents warping.
+
+Recommended print settings for the enclosures:
+* 0.4mm nozzle
+* 0.15mm layer height
+* 10%-20% infill
+
+All cases are labeled using the following notation: `ABBR-X-[T/B]`, where
+`ABBR` corresponds to the cartridge type (see list below), `X` the revision
+of the cartridge and `T/B` for the top or bottom parts.
+
+* `MC`: Multirom cartridge
+* `ZC`: Multirom cartridge - ZIF
+* `MCS`: Multirom cartridge - KIT
