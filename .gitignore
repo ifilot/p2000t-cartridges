@@ -28,3 +28,7 @@ fp-info-cache
 *.xml
 *.csv
 *.zip
+
+# lock and step files
+*.lck
+*.step
