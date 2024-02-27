@@ -1349,11 +1349,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 6e3295e2-beae-49df-854e-0654084b6e21)
   )
-  (text "Adress line decoding" (at 87.63 20.32 0)
+  (text "Address line decoding" (at 87.63 20.32 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 76138dbd-9d9b-4e01-98ee-49a0d7ceeb47)
   )
-  (text "The lower 12 bits are specified by the\nP2000T (and the decoder circuit), the\nupper 5 bits can be set by the user\nto select the rom."
+  (text "The lower 12 bits are specified by the\nP2000T (and the decoder circuit), the\nupper 2 bits can be set by the user\nto select the rom."
     (at 213.36 34.29 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ec078904-3c91-435e-8593-ebe8b6a51ac7)
