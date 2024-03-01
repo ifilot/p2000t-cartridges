@@ -20,6 +20,12 @@ Cartridge | PCB
 * [PCB - DIP switch plate](multicartridge/pcb/dipswitch-plate)
 * [Casing (3d-print files)](multicartridge/case)
 
+There is also a Multirom cartridge using the venerable W27C512 chip, providing
+4x16kb of space.
+
+* [PCB - Multicartridge](multicartridge-w27c512/pcb)
+* [Casing (3d-print files)](multicartridge-w27c512/case)
+
 ### Multirom cartridge - ZIF
 
 SLOT1 cartridge that allows the user to select one of 32 banks (assuming a 512kb
