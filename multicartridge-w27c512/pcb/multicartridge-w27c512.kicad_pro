@@ -436,7 +436,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "multicartridge-w27c512.dsn",
-      "step": "",
+      "step": "multicartridge-w27c512.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
