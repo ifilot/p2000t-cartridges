@@ -871,25 +871,27 @@
 		(uuid "f42fb01c-ffc1-451d-9d53-47f4c228fcde")
 	)
 	(gr_text "P2000T\nMULTICART\nFLEXCONN"
-		(at 28.75 32.5 0)
+		(at 38.735 42.291 0)
+		(layer "B.SilkS")
+		(uuid "b9587eab-3a12-4493-87f9-ad6d9d82837a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "P2000T\nMULTICART\nFLEXCONN"
+		(at 30.861 42.291 0)
 		(layer "F.SilkS")
 		(uuid "b63a2e7f-f81a-43ba-a1b8-e5a292106903")
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
-			)
-			(justify left bottom)
-		)
-	)
-	(gr_text "P2000T\nMULTICART\nFLEXCONN"
-		(at 33.75 52 0)
-		(layer "F.SilkS")
-		(uuid "e7b03622-cf5e-4394-9baa-1a6b6635fe22")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.2)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
