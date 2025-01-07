@@ -28,7 +28,7 @@ uses **THT** components.
 
 ![P2000T 32x16KiB THT SST39SF040 Cartridge](img/multicartridge-sst39sf040.jpg)
 
-* [PCB - Multicartridge](multicartridge-tht-top-dipswitch/pcb/p2000t-multicartridge)
+* [PCB - Multicartridge](multicartridge-tht-top-dipswitch/pcb)
 * [PCB - DIP switch plate](multicartridge-tht-top-dipswitch/pcb/dipswitch-plate)
 * [Flexcable](multicartridge-tht-top-dipswitch/pcb/flexconnector)
 * [Casing (3d-print files)](multicartridge/case)
@@ -43,7 +43,7 @@ service.
 
 ![P2000T 32x16KiB SMD SST39SF040 Cartridge](img/multicartridge-sst39sf040-smd.jpg)
 
-* [PCB - Multicartridge](multicartridge-smd-top-dipswitch/pcb/p2000t-multicartridge)
+* [PCB - Multicartridge](multicartridge-smd-top-dipswitch/pcb)
 * [PCB - DIP switch plate](multicartridge-tht-top-dipswitch/pcb/dipswitch-plate)
 * [Flexcable](multicartridge-tht-top-dipswitch/pcb/flexconnector)
 * [Casing (3d-print files)](multicartridge/case)
@@ -79,7 +79,7 @@ assembly service of the PCB manufacturer.
 
 ![P2000T MultiROM cartridge kit](img/multicartridge-smd.jpg)
 
-* [PCB](multicartridge-smd/pcb/p2000t-multicartridge-smd)
+* [PCB](multicartridge-smd/pcb)
 * [Casing (3d-print files)](multicartridge-smd/case)
 
 ## Enclosures
