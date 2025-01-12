@@ -16,6 +16,7 @@ be found [on the website](https://www.philips-p2000t.nl/).
 >   opt for gold fingers, and specify a 30-degree chamfer on the edge connector.
 > * For flashing the SST39SF0x0 chips, there is [a cheap Flasher tool](https://github.com/ifilot/pico-sst39sf0x0-programmer)
     available, based on the Raspberry Pi PICO.
+> * A premade set of cartridge ROM-packs can be found [here](https://github.com/ifilot/p2000t-rompacks).
 
 ### 32x16KiB THT SST39SF040 (512 KiB ROM)
 
