@@ -1,10 +1,17 @@
 # P2000T Cartridges
 
+[![discord](https://img.shields.io/discord/1167925678868541451?logo=discord&logoColor=white)](https://discord.gg/YtzJTWYAxy)
+
 ## Purpose
 Set of homebrew multirom cartridges for the P2000T. These cartridges contain
 multiple ROM files stored on a single parallel EEPROM chip. The user can select
 the desired program using a DIP switch. More information on these cartridges can
 be found [on the website](https://www.philips-p2000t.nl/).
+
+> [!TIP] 
+> Have questions or comments about the **P2000T Cartridges**? Join
+> the conversation and chat with the developers on our [Discord
+> server](https://discord.gg/YtzJTWYAxy).
 
 ## MultiROM cartridges
 
