@@ -17993,7 +17993,7 @@
 			(uuid "09113f71-83a0-4edb-a0e0-16b5c71efe5f")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "J1")
 					(unit 1)
@@ -18071,7 +18071,7 @@
 			(uuid "2f157d21-3a39-473b-9a4d-ddfb8b4e0a16")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR08")
 					(unit 1)
@@ -18149,7 +18149,7 @@
 			(uuid "30a5ea45-d38c-4e33-96fc-ba01eebf7087")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR06")
 					(unit 1)
@@ -18226,7 +18226,7 @@
 			(uuid "e172c367-9661-4be4-a736-fe4e7fdabe37")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR018")
 					(unit 1)
@@ -18327,7 +18327,7 @@
 			(uuid "02bd7b3f-ab78-43ca-bf6f-761a2be6f055")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "C1")
 					(unit 1)
@@ -18405,7 +18405,7 @@
 			(uuid "4a4f6e41-8aaf-451a-9d91-360e5cad79fb")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR02")
 					(unit 1)
@@ -18482,7 +18482,7 @@
 			(uuid "9b2d5aa0-4b3e-4395-8bb2-f43b31de7af5")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR046")
 					(unit 1)
@@ -18559,7 +18559,7 @@
 			(uuid "01fec133-50be-4c87-bba0-f541b2dbdc2a")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#FLG01")
 					(unit 1)
@@ -18696,7 +18696,7 @@
 			(uuid "c8c6d6d7-faab-46a9-8b72-dc9aebcf00f6")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "U1")
 					(unit 3)
@@ -18833,7 +18833,7 @@
 			(uuid "5f921458-b515-4765-bf1d-96c7efa0ca89")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "U1")
 					(unit 1)
@@ -18970,7 +18970,7 @@
 			(uuid "741a87fa-305b-49f9-9521-cc48abca1d78")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "U1")
 					(unit 2)
@@ -19107,7 +19107,7 @@
 			(uuid "7e9c0351-099c-43b2-abd1-97f820e7d63e")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "U1")
 					(unit 4)
@@ -19244,7 +19244,7 @@
 			(uuid "36b25881-5feb-4390-98fa-153d2046ae79")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "U1")
 					(unit 5)
@@ -19322,7 +19322,7 @@
 			(uuid "3d59c5bd-8f87-4c88-99bf-9099114f6765")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR010")
 					(unit 1)
@@ -19423,7 +19423,7 @@
 			(uuid "04afc76e-95cf-4ef7-8bc1-5cede9708912")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "C6")
 					(unit 1)
@@ -19501,7 +19501,7 @@
 			(uuid "92f5b8d8-1e7e-4203-a016-5ee351e76f9f")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR014")
 					(unit 1)
@@ -19579,7 +19579,7 @@
 			(uuid "4bfdd21b-8935-4c62-a5db-1eab8f6de6fb")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR01")
 					(unit 1)
@@ -19722,7 +19722,7 @@
 			(uuid "7054dc30-d33d-4613-a3d8-61ce8bb8e9e2")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "U9")
 					(unit 1)
@@ -19865,7 +19865,7 @@
 			(uuid "10b42db3-7c33-4631-b72b-d62f7228884e")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "U9")
 					(unit 3)
@@ -19942,7 +19942,7 @@
 			(uuid "ad46c775-3e53-49fc-9c42-adfada6a0dae")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR027")
 					(unit 1)
@@ -20043,7 +20043,7 @@
 			(uuid "64afae04-ebba-4fa2-b5ae-c54bf4f358a7")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "C11")
 					(unit 1)
@@ -20121,7 +20121,7 @@
 			(uuid "1b99618a-06ac-4605-8e1f-669e12d974d1")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR028")
 					(unit 1)
@@ -20211,7 +20211,7 @@
 			(uuid "f3aac56d-3c42-45b7-b475-3739731cda9a")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "SW2")
 					(unit 1)
@@ -20354,7 +20354,7 @@
 			(uuid "14257299-4003-4ed0-953c-2c7dfc21d6c9")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "U9")
 					(unit 2)
@@ -20457,7 +20457,7 @@
 			(uuid "cd801d19-859d-4448-9af6-92536cd4234b")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "R13")
 					(unit 1)
@@ -20534,7 +20534,7 @@
 			(uuid "590aefce-7cf1-4915-82b5-896d4ed643dc")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR022")
 					(unit 1)
@@ -20637,7 +20637,7 @@
 			(uuid "5adf00ed-5851-4d3b-be8f-6967829661d4")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "R11")
 					(unit 1)
@@ -20714,7 +20714,7 @@
 			(uuid "ffeedbba-ea43-47d5-a6d4-4a04f087c14f")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR023")
 					(unit 1)
@@ -20817,7 +20817,7 @@
 			(uuid "3ddfd9e9-e9c0-4a45-aa3a-e9c068106a1d")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "R12")
 					(unit 1)
@@ -20920,7 +20920,7 @@
 			(uuid "71c768dd-99ea-42d5-ab45-932aac6d6854")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "R18")
 					(unit 1)
@@ -21021,7 +21021,7 @@
 			(uuid "4f7bce1d-c0f2-44d1-ba7b-a8546258bb87")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "C25")
 					(unit 1)
@@ -21099,7 +21099,7 @@
 			(uuid "a45e03b6-6fcf-4d83-9349-8c4c5698df83")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR07")
 					(unit 1)
@@ -21177,7 +21177,7 @@
 			(uuid "f261d8ad-bf68-4fe4-97ff-9dd32a551132")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR038")
 					(unit 1)
@@ -21255,7 +21255,7 @@
 			(uuid "aa08435c-3846-4cc5-96b4-2dea177847cd")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR019")
 					(unit 1)
@@ -21357,7 +21357,7 @@
 			(uuid "2fd58add-74c7-4a9a-95a7-3d3b0a4b00fd")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "R17")
 					(unit 1)
@@ -21458,7 +21458,7 @@
 			(uuid "287bd8be-204a-4512-b4f5-6df82fc8951c")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "C18")
 					(unit 1)
@@ -21536,7 +21536,7 @@
 			(uuid "8c77bf26-6504-4f56-9851-ae94f6ae42a9")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR051")
 					(unit 1)
@@ -21615,7 +21615,7 @@
 			(uuid "79745ebf-3927-4c18-ae35-92983dbd1109")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#FLG02")
 					(unit 1)
@@ -21693,7 +21693,7 @@
 			(uuid "22934ae3-7e13-4698-9f47-63e29b627fd8")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR05")
 					(unit 1)
@@ -21796,7 +21796,7 @@
 			(uuid "97451f77-347b-486d-bae9-7fbd5f7fb553")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "R26")
 					(unit 1)
@@ -21899,7 +21899,7 @@
 			(uuid "f3507b95-891e-452e-a9a0-80c65bd099ee")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "R23")
 					(unit 1)
@@ -21977,7 +21977,7 @@
 			(uuid "33bcccc3-dbad-4601-b196-ed0a3bc7509d")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR033")
 					(unit 1)
@@ -22055,7 +22055,7 @@
 			(uuid "29fa618a-ccf8-4426-b212-a999018cd7f9")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR03")
 					(unit 1)
@@ -22133,7 +22133,7 @@
 			(uuid "6ae91697-b093-4f8c-b051-d2a0e847fb0d")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR050")
 					(unit 1)
@@ -22236,7 +22236,7 @@
 			(uuid "1060f879-2807-44bb-a649-7c1ba1745f8b")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "R4")
 					(unit 1)
@@ -22337,7 +22337,7 @@
 			(uuid "482cc087-8099-404b-a160-726e73927164")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "C26")
 					(unit 1)
@@ -22475,7 +22475,7 @@
 			(uuid "c65955de-bdf1-4d43-be0b-a5490184993b")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "U10")
 					(unit 3)
@@ -22553,7 +22553,7 @@
 			(uuid "82458bb5-5feb-4859-8bcb-47dd5f9b5482")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR041")
 					(unit 1)
@@ -22657,7 +22657,7 @@
 			(uuid "2fcb8911-f135-44ed-b47c-735465f58499")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "C9")
 					(unit 1)
@@ -22735,7 +22735,7 @@
 			(uuid "4c618be6-473f-487b-8838-34da8c01f097")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR047")
 					(unit 1)
@@ -22812,7 +22812,7 @@
 			(uuid "f5839ebb-7f1c-4d12-8d4f-f84e2062a524")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR054")
 					(unit 1)
@@ -22890,7 +22890,7 @@
 			(uuid "b1396db3-1dde-4801-810c-ab4d0a6b80c4")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR013")
 					(unit 1)
@@ -22968,7 +22968,7 @@
 			(uuid "4785fadf-cbf9-4936-a43f-0cd8513ffcbe")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR021")
 					(unit 1)
@@ -23077,7 +23077,7 @@
 			(uuid "b780c63e-074b-4155-82c1-3c4b951f6b6e")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "Q1")
 					(unit 1)
@@ -23235,7 +23235,7 @@
 			(uuid "946f97db-9808-4033-99c9-046872ce0f9d")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "U7")
 					(unit 1)
@@ -23312,7 +23312,7 @@
 			(uuid "340d2894-39ae-4395-96c2-d78072cc47b2")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR055")
 					(unit 1)
@@ -23413,7 +23413,7 @@
 			(uuid "0f34eb2e-286b-4d7f-93ed-b01b967535c4")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "C23")
 					(unit 1)
@@ -23549,7 +23549,7 @@
 			(uuid "961d6c24-bc51-4e58-9978-17ec6c1d9617")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "J2")
 					(unit 1)
@@ -23627,7 +23627,7 @@
 			(uuid "c77647fe-f6c6-4b38-8e23-762d53147433")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR026")
 					(unit 1)
@@ -23705,7 +23705,7 @@
 			(uuid "73b06281-be5d-4935-8ece-85a742f3a8ed")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR032")
 					(unit 1)
@@ -23806,7 +23806,7 @@
 			(uuid "95eaf568-1cbf-4a51-b0ce-9bd8c203233e")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "C12")
 					(unit 1)
@@ -23907,7 +23907,7 @@
 			(uuid "b91e7b41-8cfb-421a-98d9-4005a8229628")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "C22")
 					(unit 1)
@@ -24010,7 +24010,7 @@
 			(uuid "b3ad66ab-fadd-4233-8677-3b2862a0e4fe")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "R16")
 					(unit 1)
@@ -24111,7 +24111,7 @@
 			(uuid "8d0833d1-441f-4a0e-a0f3-b4b3dd0c8128")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "C19")
 					(unit 1)
@@ -24212,7 +24212,7 @@
 			(uuid "401e444c-169c-4069-9678-5321fef2557f")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "R7")
 					(unit 1)
@@ -24313,7 +24313,7 @@
 			(uuid "e6b211f0-114a-44a9-bee5-a7498aaee52a")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "C14")
 					(unit 1)
@@ -24416,7 +24416,7 @@
 			(uuid "88e193ab-642a-4f26-a62a-b8ea606870d8")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "F1")
 					(unit 1)
@@ -24561,7 +24561,7 @@
 			(uuid "72472571-ba1b-4d04-b62c-0fadeb0fb446")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "U5")
 					(unit 1)
@@ -24662,7 +24662,7 @@
 			(uuid "df778b5e-775a-4af3-b433-eaa32ca558d7")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "C16")
 					(unit 1)
@@ -24893,7 +24893,7 @@
 			(uuid "bc9ae444-ffe1-4053-b82d-6d26dd2c9bf0")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "U3")
 					(unit 1)
@@ -24994,7 +24994,7 @@
 			(uuid "6b7b5e97-9653-44c2-a3c3-0250e852d81e")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "C13")
 					(unit 1)
@@ -25095,7 +25095,7 @@
 			(uuid "004425c2-f7ec-4e28-9676-c4fb8602cdd8")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "R15")
 					(unit 1)
@@ -25198,7 +25198,7 @@
 			(uuid "f3755145-a97a-4be6-9d10-0269aa5f828d")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "D1")
 					(unit 1)
@@ -25336,7 +25336,7 @@
 			(uuid "c65955de-bdf1-4d43-be0b-a5490184993c")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "U10")
 					(unit 5)
@@ -25494,7 +25494,7 @@
 			(uuid "59b7ec4b-73e0-4a93-bc74-50681abd2396")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "U6")
 					(unit 1)
@@ -25595,7 +25595,7 @@
 			(uuid "1565b5dd-37a7-4427-863b-b540bc71c441")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "C8")
 					(unit 1)
@@ -25698,7 +25698,7 @@
 			(uuid "6fcc487d-30e1-44d2-ada0-efe5f1e2c3be")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "R22")
 					(unit 1)
@@ -25776,7 +25776,7 @@
 			(uuid "6f10a33c-56f1-4d12-8730-d573e2b91ca3")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR09")
 					(unit 1)
@@ -25879,7 +25879,7 @@
 			(uuid "18975bdd-dceb-4552-883d-b006066daf4a")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "R24")
 					(unit 1)
@@ -26024,7 +26024,7 @@
 			(uuid "0d24b646-f6bf-4074-b1fc-5cbea30e62fc")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "U4")
 					(unit 1)
@@ -26102,7 +26102,7 @@
 			(uuid "b3694a21-1950-4de8-accb-e00c83375bae")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR052")
 					(unit 1)
@@ -26205,7 +26205,7 @@
 			(uuid "2866eeef-7112-4be1-bc12-86e4d8d5c1ba")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "R5")
 					(unit 1)
@@ -26283,7 +26283,7 @@
 			(uuid "18a90b12-88e8-49e3-8b40-4fac2953d3a7")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR020")
 					(unit 1)
@@ -26466,7 +26466,7 @@
 			(uuid "9899540d-b750-4aef-8d5e-5b06a2510d0e")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "U2")
 					(unit 1)
@@ -26569,7 +26569,7 @@
 			(uuid "935436e0-45ca-48f8-86ae-9b6f671f53aa")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "R21")
 					(unit 1)
@@ -26647,7 +26647,7 @@
 			(uuid "a1e68576-7aaf-4fe9-8087-dccbe0a8ca20")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR031")
 					(unit 1)
@@ -26727,7 +26727,7 @@
 			(uuid "766f5da3-5f04-40a1-8565-272ad6cd4bbf")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR035")
 					(unit 1)
@@ -26846,7 +26846,7 @@
 			(uuid "478badd5-00d0-45cc-ab6b-c3953235e666")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "U12")
 					(unit 1)
@@ -26938,7 +26938,7 @@
 			(uuid "1651c12c-aee8-4063-8239-e6f73ae0bd37")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "Y1")
 					(unit 1)
@@ -27041,7 +27041,7 @@
 			(uuid "c5877cb9-eb67-4eba-bb18-55403edc2b95")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "R3")
 					(unit 1)
@@ -27118,7 +27118,7 @@
 			(uuid "5cb172c4-9800-4bee-b3f0-5f8b5f41d8d2")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR049")
 					(unit 1)
@@ -27223,7 +27223,7 @@
 			(uuid "209afab3-6d54-4ab2-b1e6-944f7fb8b0f9")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "J3")
 					(unit 1)
@@ -27324,7 +27324,7 @@
 			(uuid "f5f14f09-ae1d-4dac-bbdd-d2f35422b44d")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "C7")
 					(unit 1)
@@ -27403,7 +27403,7 @@
 			(uuid "c16b12c7-8657-4cdf-9b67-f47a9778feb8")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#FLG03")
 					(unit 1)
@@ -27507,7 +27507,7 @@
 			(uuid "9681035e-b066-47ca-ae7f-b6bb81c2127e")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "C4")
 					(unit 1)
@@ -27609,7 +27609,7 @@
 			(uuid "39b98591-f790-4f39-b8e4-1e88c16f7a2b")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "C20")
 					(unit 1)
@@ -27687,7 +27687,7 @@
 			(uuid "a6f63742-7684-4440-a409-fe464aca19ef")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR029")
 					(unit 1)
@@ -27765,7 +27765,7 @@
 			(uuid "064c9329-45f1-4f86-b257-4ea7df039a88")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR030")
 					(unit 1)
@@ -27844,7 +27844,7 @@
 			(uuid "8cbac1e7-1ed6-46cd-b453-a6a3f625b074")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR034")
 					(unit 1)
@@ -27945,7 +27945,7 @@
 			(uuid "51e782df-976b-4158-abfe-9077e4fe2a89")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "C5")
 					(unit 1)
@@ -28049,7 +28049,7 @@
 			(uuid "0c066923-132c-4c0a-b71c-4a2985375940")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "C15")
 					(unit 1)
@@ -28150,7 +28150,7 @@
 			(uuid "e74b8a30-4da4-4540-824c-9b3138e1a3a7")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "C24")
 					(unit 1)
@@ -28228,7 +28228,7 @@
 			(uuid "9497d4a2-9dae-4670-9eff-4d770d4ccdc5")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR053")
 					(unit 1)
@@ -28329,7 +28329,7 @@
 			(uuid "e1361be4-ebad-4c64-9afa-527ba908ab64")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "R20")
 					(unit 1)
@@ -28433,7 +28433,7 @@
 			(uuid "0d4ad43b-a66c-447e-8eed-5ba2226dfaa5")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "C17")
 					(unit 1)
@@ -28511,7 +28511,7 @@
 			(uuid "d9497705-2ecb-4851-9d76-8db04a67e65e")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR025")
 					(unit 1)
@@ -28590,7 +28590,7 @@
 			(uuid "0fe82266-912e-4fe9-be6a-119e71f271b0")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR044")
 					(unit 1)
@@ -28693,7 +28693,7 @@
 			(uuid "492770c9-9107-4be4-9b6f-63d92bf6979a")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "C3")
 					(unit 1)
@@ -28770,7 +28770,7 @@
 			(uuid "a9042e7a-e8bf-4444-a88d-4165233ef503")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR056")
 					(unit 1)
@@ -28848,7 +28848,7 @@
 			(uuid "68fdf287-1d9d-4141-9dae-fd09a79ec89c")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR012")
 					(unit 1)
@@ -28926,7 +28926,7 @@
 			(uuid "d54f8d58-653d-479f-b531-680ec764b8d2")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR040")
 					(unit 1)
@@ -29004,7 +29004,7 @@
 			(uuid "50260954-18da-48db-8f74-b00542860d5c")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR011")
 					(unit 1)
@@ -29105,7 +29105,7 @@
 			(uuid "00448177-a8d9-44ba-8f77-5c896de1b9ee")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "C27")
 					(unit 1)
@@ -29183,7 +29183,7 @@
 			(uuid "66f8c9c2-62cc-44be-88ac-0a7a00b44422")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR039")
 					(unit 1)
@@ -29261,7 +29261,7 @@
 			(uuid "6e68882d-a60c-45ea-9613-a1d4715ee6ec")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR04")
 					(unit 1)
@@ -29364,7 +29364,7 @@
 			(uuid "927d9710-66c8-454e-b598-036fcd00b836")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "R25")
 					(unit 1)
@@ -29442,7 +29442,7 @@
 			(uuid "9c3e337f-457b-42ce-af48-ccd1736bc765")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR015")
 					(unit 1)
@@ -29544,7 +29544,7 @@
 			(uuid "f3bfc0a4-cf9e-4c4d-96f9-c11e1e48baa8")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "FB1")
 					(unit 1)
@@ -29622,7 +29622,7 @@
 			(uuid "41c6aedb-0b14-4992-bd42-fab29ee5d5df")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR037")
 					(unit 1)
@@ -29701,7 +29701,7 @@
 			(uuid "ca32c761-980d-4cfd-acf0-89dc836b8ea8")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR043")
 					(unit 1)
@@ -29859,7 +29859,7 @@
 			(uuid "e4844656-624a-43d2-9251-17fad3eec588")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "U8")
 					(unit 1)
@@ -29967,7 +29967,7 @@
 			(uuid "edd3ee15-33b6-4989-bfc2-b0ae4402de99")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "SW1")
 					(unit 1)
@@ -30070,7 +30070,7 @@
 			(uuid "c5038158-b71d-4f70-b583-ae81561830c7")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "C2")
 					(unit 1)
@@ -30208,7 +30208,7 @@
 			(uuid "c65955de-bdf1-4d43-be0b-a5490184993d")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "U10")
 					(unit 4)
@@ -30311,7 +30311,7 @@
 			(uuid "94f8d9fc-3d09-40ba-869e-e5e478a37e19")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "C10")
 					(unit 1)
@@ -30449,7 +30449,7 @@
 			(uuid "c65955de-bdf1-4d43-be0b-a5490184993e")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "U10")
 					(unit 2)
@@ -30552,7 +30552,7 @@
 			(uuid "71e4195b-5ab5-429f-821c-bedb657a6eaa")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "R2")
 					(unit 1)
@@ -30690,7 +30690,7 @@
 			(uuid "c65955de-bdf1-4d43-be0b-a5490184993f")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "U10")
 					(unit 1)
@@ -30793,7 +30793,7 @@
 			(uuid "fcf9850a-bede-428f-b304-a724677faf8c")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "R19")
 					(unit 1)
@@ -30898,7 +30898,7 @@
 			(uuid "6a5b5a9c-dca5-4027-8409-d4fdac360431")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "C21")
 					(unit 1)
@@ -31001,7 +31001,7 @@
 			(uuid "f30e3edd-9323-40e1-8c87-44d191a494cb")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "R14")
 					(unit 1)
@@ -31104,7 +31104,7 @@
 			(uuid "58b1aac6-a90f-4378-9531-83fc14657d9d")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "R1")
 					(unit 1)
@@ -31181,7 +31181,7 @@
 			(uuid "efd3f33b-790d-4561-a21d-3e49d8982ab0")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR048")
 					(unit 1)
@@ -31259,7 +31259,7 @@
 			(uuid "56cfa16f-5a41-48ec-8282-5b87887ccbf1")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR024")
 					(unit 1)
@@ -31337,7 +31337,7 @@
 			(uuid "8dac4d3a-dce6-49cc-9d7a-89f2b49b4b20")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR017")
 					(unit 1)
@@ -31415,7 +31415,7 @@
 			(uuid "cd12d061-dc67-4b6e-beb4-dfca0ad2065a")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR036")
 					(unit 1)
@@ -31493,7 +31493,7 @@
 			(uuid "aa3c5697-022a-402a-8151-f8246eda8c5f")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR042")
 					(unit 1)
@@ -31613,7 +31613,7 @@
 			(uuid "45622bcf-73b0-40a6-84a4-4257c2ce9715")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "U11")
 					(unit 1)
@@ -31715,7 +31715,7 @@
 			(uuid "c25b3261-a818-43b8-b590-4ae07bbff0dc")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "R6")
 					(unit 1)
@@ -31792,7 +31792,7 @@
 			(uuid "ced8fe6d-89d9-49ff-b6be-2850fa016659")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR045")
 					(unit 1)
@@ -31870,7 +31870,7 @@
 			(uuid "ac13765e-616f-447d-babc-76a7b961beaf")
 		)
 		(instances
-			(project "multicartridge-smd-32u4-top-dipswitch"
+			(project "multicartridge-smd-32u4-front-dipswitch"
 				(path "/740cd481-e367-42b6-a158-24c759a7a91a"
 					(reference "#PWR016")
 					(unit 1)

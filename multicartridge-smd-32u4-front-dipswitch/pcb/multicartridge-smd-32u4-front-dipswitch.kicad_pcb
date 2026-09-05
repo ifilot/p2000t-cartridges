@@ -163,7 +163,7 @@
 		(property ki_fp_filters "SW?DIP?x4*")
 		(path "/cff3aa97-0a80-4f3d-82b9-59895daae965")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -828,7 +828,7 @@
 		)
 		(path "/00000000-0000-0000-0000-0000611a4732")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1268,7 +1268,7 @@
 		(property ki_fp_filters "TQFP*10x10mm*P0.8mm*")
 		(path "/593e2fe1-db73-44b8-877d-cae6785b9376")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2632,7 +2632,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/9cc38bb5-5428-4bdb-b6ef-c13cda5ac884")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2846,7 +2846,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/d22aab17-f30a-4adf-a205-cf1068bff729")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3036,7 +3036,7 @@
 		)
 		(path "/7f1608a4-2e69-43c0-8890-19e728631020")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4085,7 +4085,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-000060fac7f9")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4299,7 +4299,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/a9c12831-f3be-4664-afe1-2916b10a21bf")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4513,7 +4513,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e9a9a39a-1a3b-4d22-bbd8-aa0ad6061049")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4727,7 +4727,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/dc24453d-9c71-4da7-be7b-8fbcbf503b7e")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4941,7 +4941,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/85e3a394-8a78-45bd-9486-1315a334f9a9")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5126,7 +5126,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/00000000-0000-0000-0000-000060f53d0e")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5840,7 +5840,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/97d47ac1-067e-4190-8d2a-6c6f8574e852")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6054,7 +6054,7 @@
 		(property ki_fp_filters "DIP*W7.62mm* SO14*")
 		(path "/00000000-0000-0000-0000-000061046a23")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6688,7 +6688,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/0c24c402-0727-4556-9ca0-91f4ddcf5a37")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6902,7 +6902,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/5ff37991-0f2a-491c-a271-bcc5b9963233")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7116,7 +7116,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/d6341be9-f334-4e3c-966a-a48cf4ce21e0")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7321,7 +7321,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/618f4e21-1cf2-422a-85d1-6ae8345a1207")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7675,7 +7675,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/bc3852b2-7d66-4e09-aea4-6a45d3b3059f")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7889,7 +7889,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/032bd3ff-d072-4c35-ae76-dc059570bd64")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8103,7 +8103,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0c13eeee-a816-4b9f-84ac-dc126f2aa3e8")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8317,7 +8317,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/490cdb95-0ca4-44c1-85a4-2169ef4282a0")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8531,7 +8531,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4c5615e3-40df-4dd9-8d5c-15e613818a8f")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8745,7 +8745,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/524924b7-bcb8-4c14-8f62-01fa89dea4e9")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8959,7 +8959,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00006119c8bb")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9173,7 +9173,7 @@
 		(property ki_fp_filters "DIP?20*")
 		(path "/33b5a876-fdec-41e2-8ab7-ec4217750753")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9931,7 +9931,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/e66aba9b-3d1f-4805-825c-755f7233261f")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10145,7 +10145,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/58b8c935-a5e2-4e4b-ac1f-d9702ecab976")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10352,7 +10352,7 @@
 		(property ki_fp_filters "SOT?5?3*")
 		(path "/f6a01f72-7367-4212-ad36-c8c2d99eeb6b")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10783,7 +10783,7 @@
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/c520addf-035d-403b-81ec-70a90ef3ee26")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10997,7 +10997,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/31cedf4c-1581-4568-882a-6b86f73b9dc5")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11446,7 +11446,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/356078f9-a0b7-4919-8718-b7903de9aec4")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11660,7 +11660,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/01c1785a-5706-4c21-8cd6-c8e3374ddb40")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11874,7 +11874,7 @@
 		(property ki_fp_filters "DIP?14*")
 		(path "/dfb8776b-ef16-4dbc-ae3c-c1729806d2db")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12508,7 +12508,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/a52d7027-e876-4ac2-b4b4-d6c71af2a12b")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12700,7 +12700,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/2104a180-f3b4-468c-bdd9-4ab9a41a27a6")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12914,7 +12914,7 @@
 		(property ki_fp_filters "DIP?20*")
 		(path "/cce812bf-8053-4e5b-83f3-170531f33582")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13672,7 +13672,7 @@
 		(property ki_fp_filters "DIP?16*")
 		(path "/778f4ce2-a699-4d2e-ae38-f3f12042fd5d")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14346,7 +14346,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/1527a2e2-9fa8-4231-8c5d-91515e1b85f0")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14538,7 +14538,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/6dc984af-6da2-418b-bc5a-61d708b5e513")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14730,7 +14730,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/97edd35d-766d-4013-b0e3-b450ce700ee9")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14922,7 +14922,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-0000612240c0")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15136,7 +15136,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/bec22b30-e773-4aa1-a104-7683ea2a4702")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15328,7 +15328,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/8524923f-5b5b-4206-a18a-04345f2c69f7")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15776,7 +15776,7 @@
 		(property ki_fp_filters "IDC?Header*2x03* Pin?Header*2x03*")
 		(path "/8b543c8f-e176-4856-b4d3-7b48cfa61c91")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16312,7 +16312,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/59e6d6c2-20c2-4158-ac68-823ca9b978fa")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16503,7 +16503,7 @@
 		(property ki_fp_filters "USB*C*Receptacle*")
 		(path "/366ae59e-13be-4d70-a869-b284499cb3a5")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17209,7 +17209,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/6310472f-c443-4912-bf33-b783ce47bbf2")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17423,7 +17423,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/2660f348-6417-4d13-a768-424465c27f7d")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17637,7 +17637,7 @@
 		(property ki_fp_filters "*polyfuse* *PTC*")
 		(path "/5696398a-e4c1-4c97-9c5d-fabced27efca")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17851,7 +17851,7 @@
 		(property ki_fp_filters "DIP?16*")
 		(path "/56c71d83-9dbe-49c2-b97a-891688454df9")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18525,7 +18525,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f6f16faa-8e49-42b1-ad81-ad84eb7c2880")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18739,7 +18739,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-0000612685e8")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18953,7 +18953,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/78e33719-feef-4c1e-b1b5-8b34b56a276a")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19167,7 +19167,7 @@
 		(property ki_fp_filters "DIP?16*")
 		(path "/00000000-0000-0000-0000-0000611ffb80")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19847,7 +19847,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/48b410af-ca4e-4874-8a64-dc51377bb1c9")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20061,7 +20061,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/92a0ea75-955b-441d-a759-375c7050fda1")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20275,7 +20275,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e83d143b-a31a-41c6-9026-dc9759dd1b6f")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20489,7 +20489,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00006106cb1f")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20703,7 +20703,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/9e5eff79-c813-4e05-aea1-34edb5e3c577")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20895,7 +20895,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000061215637")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21109,7 +21109,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/6afd1428-461f-4a5e-8780-d02f8ef58d95")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21323,7 +21323,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a26f23b8-a814-4a5b-839e-31ed9dc4cd53")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21537,7 +21537,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/565a1a8e-68bb-40fa-a615-146599354cb3")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21751,7 +21751,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/4f65bd86-4571-49dd-b4e7-34b1109e8560")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21965,7 +21965,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/17cd720f-696e-4e39-80e3-345575e3d67c")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -22179,7 +22179,7 @@
 		(property ki_fp_filters "DIP?20*")
 		(path "/62cc0d22-d72d-4777-87f3-50b66cca7b2f")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -22937,7 +22937,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e1677888-a869-4137-9fb6-f3a5be75ac67")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23151,7 +23151,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/9e7a8de3-f113-4549-979f-eac2a59e45c8")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23365,7 +23365,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/81b32f58-f4a9-44de-a363-a5492f4ecb20")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23564,7 +23564,7 @@
 		(property ki_fp_filters "Crystal*")
 		(path "/85912044-76d3-4dd5-93da-d2703e24fc0a")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23866,7 +23866,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/29598e50-3b24-4411-9d40-cdde17f611e8")
 		(sheetname "/")
-		(sheetfile "multicartridge-smd-32u4-top-dipswitch.kicad_sch")
+		(sheetfile "multicartridge-smd-32u4-front-dipswitch.kicad_sch")
 		(units
 			(unit
 				(name "A")

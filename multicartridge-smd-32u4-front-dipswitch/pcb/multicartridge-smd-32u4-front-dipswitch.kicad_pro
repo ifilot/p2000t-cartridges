@@ -637,7 +637,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "multicartridge-smd-32u4-top-dipswitch.kicad_pro",
+    "filename": "multicartridge-smd-32u4-front-dipswitch.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -676,7 +676,7 @@
       "netlist": "",
       "plot": "GERBERS/",
       "pos_files": "./",
-      "specctra_dsn": "multicartridge-smd-32u4-top-dipswitch.dsn",
+      "specctra_dsn": "multicartridge-smd-32u4-front-dipswitch.dsn",
       "step": "",
       "svg": "",
       "vrml": ""
@@ -825,8 +825,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "multicartridge-smd-32u4-top-dipswitch.kicad_sch",
-        "name": "multicartridge-smd-32u4-top-dipswitch",
+        "filename": "multicartridge-smd-32u4-front-dipswitch.kicad_sch",
+        "name": "multicartridge-smd-32u4-front-dipswitch",
         "uuid": "740cd481-e367-42b6-a158-24c759a7a91a"
       }
     ],
@@ -836,7 +836,7 @@
   "sheets": [
     [
       "740cd481-e367-42b6-a158-24c759a7a91a",
-      "multicartridge-smd-32u4-top-dipswitch"
+      "multicartridge-smd-32u4-front-dipswitch"
     ]
   ],
   "text_variables": {},

@@ -1,5 +1,5 @@
 
-(rules PCB multicartridge-smd-32u4-top-dipswitch
+(rules PCB multicartridge-smd-32u4-front-dipswitch
   (snap_angle 
     fortyfive_degree
   )
