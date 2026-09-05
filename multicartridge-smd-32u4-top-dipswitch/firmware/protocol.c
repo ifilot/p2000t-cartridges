@@ -2,7 +2,7 @@
 #include "protocol.h"
 #define BOARD_INFO "P2000T-32U4 V003"
 _Static_assert(sizeof(BOARD_INFO) - 1 == 16, "READINFO must be exactly 16 bytes");
-void protocol_reset(protocol_t *p) { p->used = 0; p->idle_ms = 0; p->writing = false; p->failed = false; p->received = 0; }
+void protocol_reset(protocol_t *p) { p->used = 0; p->idle_ms = 0; p->writing = false; p->failed = false; p->bank_read_pending = false; p->received = 0; }
 bool protocol_tick(protocol_t *p, uint16_t ms)
 {
     if (!p->used && !p->writing) return false;
@@ -16,15 +16,25 @@ bool protocol_tick(protocol_t *p, uint16_t ms)
     p->idle_ms += ms;
     return false;
 }
-uint16_t protocol_crc(const uint8_t *data, uint16_t size)
+bool protocol_take_bank_read(protocol_t *p, uint8_t *bank)
 {
-    uint16_t crc = 0;
+    if (!p->bank_read_pending) return false;
+    *bank = p->bank;
+    p->bank_read_pending = false;
+    return true;
+}
+uint16_t protocol_crc_update(uint16_t crc, const uint8_t *data, uint16_t size)
+{
     while (size--) {
         crc ^= (uint16_t)*data++ << 8;
         for (uint8_t bit = 0; bit < 8; ++bit)
             crc = (crc & 0x8000) ? (crc << 1) ^ 0x1021 : crc << 1;
     }
     return crc;
+}
+uint16_t protocol_crc(const uint8_t *data, uint16_t size)
+{
+    return protocol_crc_update(0, data, size);
 }
 static bool block_number(const uint8_t *s, uint16_t *result)
 {
@@ -38,6 +48,19 @@ static bool block_number(const uint8_t *s, uint16_t *result)
     }
     *result = v;
     return v < 1024;
+}
+static bool bank_number(const uint8_t *s, uint8_t *result)
+{
+    uint8_t v = 0;
+    for (uint8_t i = 0; i < 2; ++i) {
+        uint8_t c = s[i], d;
+        if (c >= '0' && c <= '9') d = c - '0';
+        else if (c >= 'A' && c <= 'F') d = c - 'A' + 10;
+        else return false;
+        v = (v << 4) | d;
+    }
+    *result = v;
+    return v < 16;
 }
 uint16_t protocol_feed(protocol_t *p, uint8_t byte, uint8_t out[RESPONSE_MAX], const protocol_ops_t *ops)
 {
@@ -60,6 +83,18 @@ uint16_t protocol_feed(protocol_t *p, uint8_t byte, uint8_t out[RESPONSE_MAX], c
     if (!memcmp(out, "DEVIDSST", 8)) { ops->read_id(out + 8); return 10; }
     if (!memcmp(out, "BOOTLOAD", 8)) { out[8] = 0; ops->boot(); return 9; }
     if (!memcmp(out, "ERASEALL", 8)) { out[8] = ops->erase(); return 9; }
+    if (!memcmp(out, "RDBANK", 6)) {
+        if (!bank_number(out + 6, &p->bank)) { out[8] = 2; return 9; }
+        p->bank_read_pending = true;
+        out[8] = 0;
+        return 9;
+    }
+    if (!memcmp(out, "ERBANK", 6)) {
+        uint8_t bank;
+        if (!bank_number(out + 6, &bank)) { out[8] = 2; return 9; }
+        out[8] = ops->erase_bank(bank);
+        return 9;
+    }
     bool write = !memcmp(out, "WRBK", 4);
     if (write || !memcmp(out, "RDBK", 4)) {
         if (!block_number(out + 4, &p->block)) { out[8] = 2; return 9; }

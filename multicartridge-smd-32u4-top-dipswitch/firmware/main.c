@@ -9,7 +9,7 @@
 static protocol_t parser;
 static bool boot_requested;
 static void request_boot(void) { boot_requested = true; }
-static const protocol_ops_t operations = { sst_read_id, sst_read_block, sst_program_block, sst_erase, request_boot };
+static const protocol_ops_t operations = { sst_read_id, sst_read_block, sst_program_block, sst_erase, sst_erase_bank, request_boot };
 
 static USB_ClassInfo_CDC_Device_t serial = {
     .Config = {
@@ -43,6 +43,21 @@ void sst_service(void)
     USB_USBTask();
 }
 
+static bool send_bank(uint8_t bank)
+{
+    uint8_t data[256];
+    uint16_t crc = 0;
+    uint16_t first_block = (uint16_t)bank << 6;
+    for (uint8_t i = 0; i < 64; ++i) {
+        if (sst_read_block(first_block + i, data)) return false;
+        crc = protocol_crc_update(crc, data, sizeof(data));
+        if (CDC_Device_SendData(&serial, data, sizeof(data)) != ENDPOINT_READYWAIT_NoError)
+            return false;
+    }
+    uint8_t checksum[2] = { crc >> 8, crc };
+    return CDC_Device_SendData(&serial, checksum, sizeof(checksum)) == ENDPOINT_READYWAIT_NoError;
+}
+
 int main(void)
 {
     MCUSR &= ~_BV(WDRF);
@@ -73,8 +88,15 @@ int main(void)
             protocol_reset(&parser);
         } else if (byte >= 0) {
             uint16_t count = protocol_feed(&parser, byte, response, &operations);
-            if (count && CDC_Device_SendData(&serial, response, count) != ENDPOINT_READYWAIT_NoError)
-                protocol_reset(&parser);
+            if (count) {
+                if (CDC_Device_SendData(&serial, response, count) != ENDPOINT_READYWAIT_NoError) {
+                    protocol_reset(&parser);
+                } else {
+                    uint8_t bank;
+                    if (protocol_take_bank_read(&parser, &bank) && !send_bank(bank))
+                        protocol_reset(&parser);
+                }
+            }
         }
         CDC_Device_USBTask(&serial);
         USB_USBTask();

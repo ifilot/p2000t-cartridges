@@ -165,3 +165,37 @@ uint8_t sst_erase(void)
     idle();
     return attempts ? 0 : 4;
 }
+
+static uint8_t erase_sector(uint32_t start)
+{
+    command_write(0x5555, 0xaa);
+    command_write(0x2aaa, 0x55);
+    command_write(0x5555, 0x80);
+    command_write(0x5555, 0xaa);
+    command_write(0x2aaa, 0x55);
+    command_write(start, 0x30);
+
+    uint16_t attempts = 1000;
+    while (!(read_byte(start) & 0x80) && --attempts) {
+        _delay_ms(1);
+        sst_service();
+    }
+    return attempts ? 0 : 4;
+}
+
+uint8_t sst_erase_bank(uint8_t bank)
+{
+    if (bank >= 16) return 2;
+    if (!correct_chip()) return 3;
+    uint32_t start = (uint32_t)bank << 14;
+    for (uint8_t sector = 0; sector < 4; ++sector) {
+        uint8_t status = erase_sector(start + ((uint32_t)sector << 12));
+        if (status) { idle(); return status; }
+    }
+    for (uint16_t offset = 0; offset < 0x4000; ++offset) {
+        if (read_byte(start + offset) != 0xff) { idle(); return 5; }
+        if (!(offset & 0xff)) sst_service();
+    }
+    idle();
+    return 0;
+}

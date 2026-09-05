@@ -5,12 +5,13 @@
 
 static unsigned id_calls;
 static void identify(uint8_t id[2]) { ++id_calls; id[0] = 0xbf; id[1] = 0xb6; }
-static unsigned writes, erases, boots;
+static unsigned writes, erases, bank_erases, boots;
 static uint8_t read_block(uint16_t block, uint8_t data[256]) { assert(block < 1024); memset(data, 0x5a, 256); return 0; }
 static uint8_t program(uint16_t block, const uint8_t data[256]) { assert(block == 1023 && data[0] == 0x5a); ++writes; return 0; }
 static uint8_t erase(void) { ++erases; return 0; }
+static uint8_t erase_bank(uint8_t bank) { assert(bank < 16); ++bank_erases; return 0; }
 static void boot(void) { ++boots; }
-static const protocol_ops_t ops = { identify, read_block, program, erase, boot };
+static const protocol_ops_t ops = { identify, read_block, program, erase, erase_bank, boot };
 static protocol_t parser;
 static uint8_t response[RESPONSE_MAX];
 
@@ -61,6 +62,17 @@ int main(void)
         if (protocol_feed(&parser, stream[i], response, &ops)) ++responses;
     assert(responses == 3 && id_calls == 10);
     assert(protocol_crc((const uint8_t*)"123456789", 9) == 0x31c3);
+    assert(protocol_crc_update(protocol_crc((const uint8_t*)"1234", 4),
+                               (const uint8_t*)"56789", 5) == 0x31c3);
+    uint8_t bank;
+    assert(send("RDBANK0F", 8) == 9 && response[8] == 0);
+    assert(protocol_take_bank_read(&parser, &bank) && bank == 15);
+    assert(!protocol_take_bank_read(&parser, &bank));
+    assert(send("RDBANK10", 8) == 9 && response[8] == 2);
+    assert(!protocol_take_bank_read(&parser, &bank));
+    assert(send("RDBANK0G", 8) == 9 && response[8] == 2);
+    assert(send("ERBANK0F", 8) == 9 && response[8] == 0 && bank_erases == 1);
+    assert(send("ERBANK10", 8) == 9 && response[8] == 2 && bank_erases == 1);
     assert(send("WRBK0400", 8) == 9 && response[8] == 2);
     assert(send("WRBK00G0", 8) == 9 && response[8] == 2);
     assert(send("RDBK03FF", 8) == 267 && response[8] == 0);
