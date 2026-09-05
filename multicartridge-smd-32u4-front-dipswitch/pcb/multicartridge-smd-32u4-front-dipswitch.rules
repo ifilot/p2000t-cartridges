@@ -1,0 +1,89 @@
+
+(rules PCB multicartridge-smd-32u4-front-dipswitch
+  (snap_angle 
+    fortyfive_degree
+  )
+  (autoroute_settings
+    (fanout off)
+    (autoroute on)
+    (postroute on)
+    (vias on)
+    (via_costs 50)
+    (plane_via_costs 5)
+    (start_ripup_costs 100)
+    (start_pass_no 7953)
+    (layer_rule F.Cu
+      (active on)
+      (preferred_direction vertical)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 2.2)
+    )
+    (layer_rule B.Cu
+      (active on)
+      (preferred_direction horizontal)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 1.8)
+    )
+  )
+  (rule
+    (width 250.0)
+    (clear 200.0)
+    (clear 125.0 (type smd_to_turn_gap))
+    (clear 50.0 (type smd_smd))
+  )
+  (padstack "Via[0-1]_800:400_um"
+    (shape
+      (circle F.Cu 800.0 0.0 0.0)
+    )
+    (shape
+      (circle B.Cu 800.0 0.0 0.0)
+    )
+    (attach off)
+  )
+  (via 
+    "Via[0-1]_800:400_um" "Via[0-1]_800:400_um" default
+  )
+  (via 
+    "Via[0-1]_800:400_um-kicad_default" "Via[0-1]_800:400_um" "kicad_default"
+  )
+  (via_rule
+    default "Via[0-1]_800:400_um"
+  )
+  (via_rule
+    "kicad_default" "Via[0-1]_800:400_um-kicad_default"
+  )
+  (class default
+    (clearance_class default)
+    (via_rule default)
+    (rule
+      (width 250.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class "kicad_default"
+    "DIP_A17" "DIP_A16" "DIP_A15" "DIP_A14" "5V_SYS" GND "Net-(U9A-A)" "unconnected-(U3-PE6-Pad1)"
+    "Net-(U3-D-)" "/M_USB_D+" "Net-(U3-UCAP)" LE1 LE2 LE3 "~{OE_ADDR}" "unconnected-(U3-PB7-Pad12)"
+    "Net-(Q1-D)" "Net-(U3-XTAL2)" "Net-(U3-XTAL1)" D0 D1 D2 D3 D5
+    D4 D6 D7 ~{PROG} "~{CS_PROG}" "~{OE_PROG}" "unconnected-(U3-PC6-Pad31)" "unconnected-(U3-PC7-Pad32)"
+    "unconnected-(U3-~{HWB}{slash}PE2-Pad33)" "unconnected-(U3-PF7-Pad36)" "unconnected-(U3-PF6-Pad37)" "unconnected-(U3-PF5-Pad38)" "unconnected-(U3-PF4-Pad39)" "unconnected-(U3-PF1-Pad40)" "unconnected-(U3-PF0-Pad41)" "Net-(U3-AREF)"
+    "unconnected-(U2-NC-Pad1)" A16 A15 A12 A7 A6 A5 A4
+    A3 A2 A1 A0 ~{CS} A10 ~{OE} A11
+    A9 A8 A13 A14 A17 ~{FLASH} ~{NMI} "P2000T_5V_RAW"
+    A12C ~{CARSEL2} ~{CARSEL1} "A12_SEL" "A13_SEL" "~{CS_SEL}" "Net-(U1-Pad10)" "Net-(J2-CC1)"
+    "Net-(U9B-Cext)" "Net-(U9B-RCext)" "Net-(D1-K)" "Net-(J2-CC2)" "Net-(J2-SHIELD)" "Net-(U11-PR1)" "USB_OUTD-" "~{OE_573}"
+    "USB_5V_RAW" ST "unconnected-(U10-Pad6)" "unconnected-(U10-Pad11)" "PROG_A15" "PROG_A14" "PROG_A13" "PROG_A12"
+    "Net-(U9A-RCext)" "USB_D-" "USB_D+" "USB_OUTD+" "Net-(U12-VBUS)" "unconnected-(J2-SBU1-PadA8)" "unconnected-(J2-SBU2-PadB8)" "PROG_A16"
+    "PROG_A17" "unconnected-(U9A-~{Q}-Pad4)" "unconnected-(U9B-Q-Pad5)" "Net-(U9A-Q)" "Net-(U9A-Cext)" "unconnected-(U6-Q7-Pad12)" "unconnected-(U6-Q6-Pad13)" "unconnected-(U6-Q5-Pad14)"
+    "unconnected-(U6-Q4-Pad15)" "unconnected-(U6-Q3-Pad16)" "unconnected-(U6-Q2-Pad17)"
+    (clearance_class "kicad_default")
+    (via_rule kicad_default)
+    (rule
+      (width 250.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+)
