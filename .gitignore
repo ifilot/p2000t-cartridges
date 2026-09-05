@@ -32,3 +32,7 @@ fp-info-cache
 # lock and step files
 *.lck
 *.step
+
+# Generated firmware artifacts
+multicartridge-smd-32u4-top-dipswitch/firmware/build/
+multicartridge-smd-32u4-top-dipswitch/firmware/backups/
